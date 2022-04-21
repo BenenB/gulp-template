@@ -1,0 +1,20 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "basic template for node js build pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "gulp",
+    "template"
+  ],
+  "author": "benen bruen",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0"
+  }
+}
