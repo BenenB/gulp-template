@@ -1,0 +1,14 @@
+#example-carousel{
+  width :80vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  height : inherit;
+}
+
+.example-item{
+  width:20vw;
+  height:50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue;
+}

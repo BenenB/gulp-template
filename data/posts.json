@@ -1,0 +1,33 @@
+{
+  "meta" : {
+    "returned": 4,
+    "total": 19,
+    "type": "index"
+  },
+  "posts":[
+    {
+      "title":"7 ways to generate fake data",
+      "post_url":"/blog/7-ways-generate-fake-data",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis velit ut nibh eleifend iaculis at sed tortor. Aenean fringilla mauris sed arcu varius mollis. Donec semper metus eget dapibus vestibulum. Morbi ultrices ligula risus, ut tincidunt nunc ornare eget. Nulla hendrerit consectetur mattis. Pellentesque vitae dapibus tortor. Nulla facilisi. In hac habitasse platea dictumst. Aliquam eleifend, dolor in porttitor fringilla, ipsum mi ultricies mi, quis egestas arcu nisl quis augue. Sed semper eros hendrerit dui bibendum volutpat. Nunc varius dolor ac tortor ultrices vestibulum. Integer gravida justo quis tincidunt dapibus.",
+      "image_url":"https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/tonic_ai_real_fake_data.png"
+    },
+    {
+      "title":"Leveraging Lorem Ipsum to Modernize your Business",
+      "post_url":"/blog/leveraging-lorem-ipsum-modernize-business",
+      "description":"Suspendisse viverra odio volutpat mauris imperdiet, vestibulum iaculis lorem pharetra. Cras suscipit felis et mi placerat, sit amet facilisis augue luctus. Duis laoreet mattis dolor, sed rhoncus lectus tincidunt quis. Curabitur accumsan pulvinar urna vel varius. Sed interdum, sapien eu convallis placerat, lectus quam eleifend libero, ac fringilla orci sapien ut erat. Maecenas metus risus, venenatis in pretium eu, pulvinar eget ipsum. Ut ac sem quis ligula fermentum maximus. Maecenas tempus ex at ex scelerisque, ut commodo dolor scelerisque. Fusce et dictum ex. Ut tincidunt nisl non ante tempor, non ornare lacus luctus. Nullam porta, lectus non ullamcorper pulvinar, quam dolor placerat lorem, non posuere quam quam eget metus. Morbi condimentum diam metus. Duis eget mi quis ante ultricies mattis in lacinia est. Vivamus interdum tempus sem, non blandit augue scelerisque nec. Phasellus vulputate leo non leo laoreet, vel hendrerit risus ornare. ",
+      "image_url":"https://media.istockphoto.com/vectors/a-colorful-trendy-card-design-vector-illustration-vector-id1193323373?k=20&m=1193323373&s=612x612&w=0&h=2FmXahDQKYY2zPpdrgzh5QxWqPu3RTCoduKebKNfQRg="
+    },
+    {
+      "title":"Data Data Everywhere",
+      "post_url":"/blog/data-data-everywhere",
+      "description":"Maecenas a sem luctus, auctor magna in, lacinia libero. Nunc non nunc eu enim imperdiet aliquet. Pellentesque cursus consectetur tortor id ultricies. Suspendisse at arcu at lorem vehicula pretium. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In elementum nisi a lectus placerat scelerisque. Mauris interdum auctor tempus. Phasellus tempus, tortor ac faucibus luctus, urna tellus dictum massa, iaculis sodales augue nulla sed odio. Sed lacus nisl, finibus a arcu ac, mattis ornare leo. Ut porta tristique scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi rutrum vulputate est, eu blandit mi pharetra quis. Nam in diam fermentum, iaculis diam ut, posuere ligula. Duis at dapibus felis. ",
+      "image_url":"https://www.keelingsknowledge.com/wp-content/uploads/2020/09/data.jpg"
+    },
+    {
+      "title":"JSON in the modern web",
+      "post_url":"/blog/json-modern-web",
+      "description":"Vestibulum sagittis eros a ipsum pulvinar placerat. Ut fringilla mauris in pellentesque ullamcorper. Cras tristique a dui quis porttitor. Sed et feugiat ligula. In iaculis at dolor at blandit. Aliquam id purus urna. Morbi auctor risus eget nisl facilisis, et efficitur quam pretium. Sed sit amet posuere velit.",
+      "image_url":"https://i.ytimg.com/vi/0IoG-mSvWSo/maxresdefault.jpg"
+    }
+  ]
+}
